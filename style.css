@@ -1,0 +1,17 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #f7b42c;
+    color: #2b2b2b;
+    margin: 0;
+    padding: 20px;
+}
+h1 { font-size: 3rem; }
+h2 { font-size: 2rem; }
+img { max-width: 80%; height: auto; margin: 20px; }
+.comic-box {
+    border: 5px solid #2b2b2b;
+    padding: 10px;
+    background: white;
+    display: inline-block;
+}
